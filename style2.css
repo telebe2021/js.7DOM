@@ -1,0 +1,25 @@
+#colorDiv {
+  width: 50%;
+  height: 150px;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px;display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9999px;
+  font-family: monospace;
+
+}
+
+.colorBtn {
+  margin: 5px;
+  padding: 5px;
+  cursor:-webkit-zoom-out;
+}
+
+.green { background-color: green; }
+.red { background-color: red; }
+.blue { background-color: blue; }
+.yellow { background-color: yellow; }
+.purple { background-color: purple; }
+.orange { background-color: orange; }
